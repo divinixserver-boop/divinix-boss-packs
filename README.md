@@ -6,7 +6,7 @@ Simple, Minecraft-style custom bosses and mobs for **ModelEngine + MythicMobs**,
 
 ## About
 
-I'm Miguel, a mathematician from Spain. I worked for a time as a programmer and I have run my own Minecraft servers for years, so I know first-hand what a server owner needs: packs that install in minutes, work with vanilla items, and can be tuned from plain YAML files. I build my packs with my own tooling (scripts that generate the 3D models, textures and animations) and then test and polish every boss in the real game.
+I'm Miguel, a mathematician from Spain. I worked for a time as a programmer and I have run my own Minecraft servers for years, so I know first-hand what a server owner needs: packs that install in minutes, work with vanilla items, and can be tuned from plain YAML files. Every pack is tested in the real game before release, so what you see in the screenshots is what you get.
 
 **Contact:** Discord `Migpe45`
 
