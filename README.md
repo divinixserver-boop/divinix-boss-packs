@@ -69,6 +69,26 @@ A complete set of dungeon mobs for an overgrown, mushroom-infested ruin. **The m
 - **5 room mobs**: a swarm crawler, a tanky Capbound, a ranged Spore Spitter, an ambushing Root Lurker and a Glow Moth
 - 18 custom models. Warning rings, erupting roots, falling spores and the blast are animated 3D models, not particles
 
+### Desert Tomb  -  dungeon mob pack (2 bosses + 5 room mobs)
+
+A sunken Egyptian tomb in sandstone, gold and lapis lazuli. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Pharaoh](images/tomb_01_pharaoh.jpg)
+![Jackal Guardian](images/tomb_03_jackal_guardian.jpg)
+
+| Mummy | Sentinel Statue | Sand Priest |
+|---|---|---|
+| ![Mummy](images/tomb_10_mummy.jpg) | ![Sentinel Statue](images/tomb_05_sentinel_statue.jpg) | ![Sand Priest](images/tomb_07_sand_priest.jpg) |
+
+| Scarab | Jackal |
+|---|---|
+| ![Scarab](images/tomb_08_scarab.jpg) | ![Jackal](images/tomb_09_jackal.jpg) |
+
+- **The Pharaoh (final boss)**: a curse that stacks and is purged in **glyphs**, a locust plague you jump over, and in phase 2 a **sarcophagus**: he seals himself and you have to break 3 canopic jars, guarded by scarabs, before the Curse Nova hits
+- **Jackal Guardian (mini-boss)**: a shield that makes him invulnerable for a few seconds, a sandstorm that pulls you in and desert spears you dodge
+- **5 room mobs**: a swarm scarab, a tanky mummy, a ranged sand priest, an ambushing sentinel statue and a pack-hunting jackal
+- 17 custom models. Warning rings, the sandstorm, spears and the golden seal are animated 3D models, not particles
+
 ## What every pack includes
 
 - Original 3D models, textures and animations (`.bbmodel`, open in Blockbench)
