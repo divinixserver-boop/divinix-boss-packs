@@ -49,6 +49,26 @@ A mossy stone colossus with floating fists, orbiting rocks, a glowing rune core 
 - **Phase 2** below 50% health
 - 10 custom models, effects are animated 3D models instead of particle spam
 
+### Fungal Depths  -  dungeon mob pack (2 bosses + 5 room mobs)
+
+A complete set of dungeon mobs for an overgrown, mushroom-infested ruin. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Rotten King](images/fungal_01_rotten_king.jpg)
+![Mycelium Matriarch](images/fungal_03_mycelium_matriarch.jpg)
+
+| Capbound | Spore Crawler | Spore Spitter |
+|---|---|---|
+| ![Capbound](images/fungal_04_capbound.jpg) | ![Spore Crawler](images/fungal_05_spore_crawler.jpg) | ![Spore Spitter](images/fungal_06_spore_spitter.jpg) |
+
+| Root Lurker | Glow Moth | Egg Sac |
+|---|---|---|
+| ![Root Lurker](images/fungal_07_root_lurker.jpg) | ![Glow Moth](images/fungal_08_glow_moth.jpg) | ![Egg Sac](images/fungal_09_egg_sac.jpg) |
+
+- **The Rotten King (final boss)**: his hits stack an **infection** that you purge by standing in **glowcaps**. In phase 2 the **Great Bloom** marks the whole arena and blasts everyone who is not in the light
+- **Mycelium Matriarch (mini-boss)**: root snares, **egg sacs** that hatch into crawlers if you ignore them, and a spore burst you dodge by jumping
+- **5 room mobs**: a swarm crawler, a tanky Capbound, a ranged Spore Spitter, an ambushing Root Lurker and a Glow Moth
+- 18 custom models. Warning rings, erupting roots, falling spores and the blast are animated 3D models, not particles
+
 ## What every pack includes
 
 - Original 3D models, textures and animations (`.bbmodel`, open in Blockbench)
