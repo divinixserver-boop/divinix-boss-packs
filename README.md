@@ -89,6 +89,46 @@ A sunken Egyptian tomb in sandstone, gold and lapis lazuli. **The map is not inc
 - **5 room mobs**: a swarm scarab, a tanky mummy, a ranged sand priest, an ambushing sentinel statue and a pack-hunting jackal
 - 17 custom models. Warning rings, the sandstorm, spears and the golden seal are animated 3D models, not particles
 
+### Crimson Crypt  -  dungeon mob pack (2 bosses + 5 room mobs)
+
+A gothic vampire crypt in black stone, crimson and old gold. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Crimson Lord](images/crypt_01_crimson_lord.jpg)
+![Blood Knight](images/crypt_03_blood_knight.jpg)
+
+| Coffin of Blood | Blood Acolyte | Gargoyle |
+|---|---|---|
+| ![Coffin of Blood](images/crypt_02_blood_coffin.jpg) | ![Blood Acolyte](images/crypt_04_blood_acolyte.jpg) | ![Gargoyle](images/crypt_05_gargoyle.jpg) |
+
+| Penitent | Crypt Ghoul |
+|---|---|
+| ![Penitent](images/crypt_06_penitent.jpg) | ![Crypt Ghoul](images/crypt_07_ghoul.jpg) |
+
+- **The Crimson Lord (final boss)**: his hits heal him and make you **bleed**; stand in the light of a **candelabra** to stop it. Bat Mist teleports, blood spears and orbs, and in phase 2 a **Coffin of Blood**: break three coffins while crypt creatures rise, or face the Blood Nova
+- **Blood Knight (mini-boss)**: two-handed greatsword cleave with 5-block reach, a warned Blood Charge and a Blood Mark that leaves slowing pools
+- **5 room mobs**: a whip-wielding Penitent swarm, an ambushing Gargoyle statue, a ranged Blood Acolyte, a Crypt Ghoul tank and a Blood Bat
+- 16 custom models. Candelabras, blood spears, the bat cloud and coffins are animated 3D models, not particles
+
+### Frostbound Citadel  -  dungeon mob pack (2 bosses + 5 room mobs)
+
+An undead Norse citadel buried in ice. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Frost Jarl](images/frost_01_frost_jarl.jpg)
+![Rimeborn Warden](images/frost_03_rimeborn_warden.jpg)
+
+| Ragnarok | Draugr Archer | Arrow Rain |
+|---|---|---|
+| ![Ragnarok](images/frost_02_ragnarok.jpg) | ![Draugr Archer](images/frost_04_draugr_archer.jpg) | ![Arrow Rain](images/frost_07_arrow_rain.jpg) |
+
+| Frost Golem | Frost Wolf |
+|---|---|
+| ![Frost Golem](images/frost_05_frost_golem.jpg) | ![Frost Wolf](images/frost_06_frost_wolf.jpg) |
+
+- **The Frost Jarl (final boss)**: **standing still freezes you** (keep moving), his axe is thrown and sticks in the floor while he fights barehanded, a snow meteor freezes whoever stays in its circle, and in phase 2 **Ragnarok**: waves of ice boulders roll across the hall along warned lanes
+- **Rimeborn Warden (mini-boss)**: an **almost invulnerable front** (strike him from behind), reflects projectiles, a frost shockwave you jump over, a slippery frost stomp and a shield boomerang
+- **5 room mobs**: Draugr Warrior, Draugr Archer with arrow rain, Frost Wolf, Rune Shaman and Frost Golem
+- 22 custom models. Icicles, ice prisons, rolling boulders, warning lanes and the meteor are animated 3D models, not particles
+
 ## What every pack includes
 
 - Original 3D models, textures and animations (`.bbmodel`, open in Blockbench)
