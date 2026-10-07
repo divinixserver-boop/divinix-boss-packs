@@ -129,6 +129,26 @@ An undead Norse citadel buried in ice. **The map is not included**: drop the mob
 - **5 room mobs**: Draugr Warrior, Draugr Archer with arrow rain, Frost Wolf, Rune Shaman and Frost Golem
 - 22 custom models. Icicles, ice prisons, rolling boulders, warning lanes and the meteor are animated 3D models, not particles
 
+### Chronosphere  -  dungeon mob pack (2 bosses + 4 room mobs)
+
+A clockwork temple where time itself comes apart. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Timekeeper](images/chrono_01_the_timekeeper.jpg)
+![Tick Executor](images/chrono_04_tick_executor.jpg)
+
+| Timekeeper's hourglass | Clock-hand sword | Rolling Gear |
+|---|---|---|
+| ![Hourglass](images/chrono_03_timekeeper_hourglass.jpg) | ![Clock hand](images/chrono_02_timekeeper_clock_hand.jpg) | ![Rolling gear](images/chrono_05_rolling_gear.jpg) |
+
+| Hourglass Specter | Pendulum Guard | Gearling | Clock Winder |
+|---|---|---|---|
+| ![Specter](images/chrono_06_hourglass_specter.jpg) | ![Pendulum Guard](images/chrono_07_pendulum_guard.jpg) | ![Gearling](images/chrono_08_gearling.jpg) | ![Winder](images/chrono_09_clock_winder.jpg) |
+
+- **The Timekeeper (final boss)**: a **giant clock hand sweeps the arena** (jump it), **Rewind** pulls you back to a ghost echo of your own position, **Time Stop** freezes everything and leaves him defenseless, and a breakable **hourglass** slows you and heals him if you ignore it
+- **Tick Executor (mini-boss)**: three fast "tic" strikes, then a "tac" pause. He takes only 10% damage outside of it, so you wait for the pause. His rolling gear goes out and back along a warned lane
+- **4 room mobs**: Gearling that rolls, Hourglass Specter that blinks and shoots sand, Pendulum Guard with an accelerated/exhausted rhythm and a Clock Winder that buffs its allies
+- 15 custom models with high-resolution textures. The sweeping needle, echoes, sand orbs, rolling gear and warning rings are animated 3D models, not particles
+
 ## What every pack includes
 
 - Original 3D models, textures and animations (`.bbmodel`, open in Blockbench)
