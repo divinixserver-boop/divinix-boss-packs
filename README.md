@@ -189,7 +189,18 @@ Each pack is tested in-game on a local Paper 1.21 server before release: animati
 
 ## Where to get them
 
-Coming soon to **MCModels**.
+Coming soon to **MCModels** and **BuiltByBit**.
+
+Already available on **MythicCraft**:
+
+- [Ancestral Shaman](https://mythiccraft.io/index.php?resources/ancestral-shaman-boss-pack.1609/)
+- [Ancient Rune Golem](https://mythiccraft.io/index.php?resources/ancient-rune-golem-boss-pack.1608/)
+- [Fungal Depths](https://mythiccraft.io/index.php?resources/fungal-depths-dungeon-mob-pack.1606/)
+- [Desert Tomb](https://mythiccraft.io/index.php?resources/desert-tomb-dungeon-mob-pack.1607/)
+- [Crimson Crypt](https://mythiccraft.io/index.php?resources/crimson-crypt-dungeon-mob-pack.1605/)
+- [Frostbound Citadel](https://mythiccraft.io/index.php?resources/frostbound-citadel-dungeon-mob-pack.1604/)
+- [Chronosphere](https://mythiccraft.io/index.php?resources/chronosphere-dungeon-mob-pack.1603/)
+- [Forbidden Library](https://mythiccraft.io/index.php?resources/forbidden-library-dungeon-mob-pack.1610/)
 
 ---
 
