@@ -169,6 +169,26 @@ A living library where the books fight back. **The map is not included**: drop t
 - **4 room mobs**: Inkling that leaves an ink puddle, Grimoire that dives and hangs stunned, Acolyte that draws runes under your feet and a Sentinel bookshelf you have to flank
 - 15 custom models with high-resolution textures. The ink pool, warning rings, the overdue book and the flying pages are animated 3D models, not particles
 
+### Carnival of Nightmares  -  dungeon mob pack (2 bosses + 4 room mobs)
+
+A twisted travelling circus where the show is out to get you. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Ringmaster](images/carnival_01_ringmaster.jpg)
+![The Ringmaster fight](images/carnival_02_ringmaster_cane.jpg)
+
+| The spotlight | The Strongman | His mallet |
+|---|---|---|
+| ![Spotlight](images/carnival_03_spotlight.jpg) | ![Strongman](images/carnival_04_strongman.jpg) | ![Mallet](images/carnival_05_strongman_mallet.jpg) |
+
+| Nightmare Clown | Silent Mime | Jerking Puppets | Bomb Balloon |
+|---|---|---|---|
+| ![Clown](images/carnival_06_clown.jpg) | ![Mime](images/carnival_07_mime.jpg) | ![Puppets](images/carnival_08_puppets.jpg) | ![Balloon](images/carnival_09_balloon.jpg) |
+
+- **The Ringmaster (final boss)**: a **spotlight chases you** and burns anything inside it, a **Shell Game** hides him under one of several cups (break the real one and he is stunned), and a whip lash **yanks you in** for a cane smash. Faster, with more spotlights, in the later phases
+- **The Strongman (mini-boss)**: a mallet, a dumbbell that **bounces back**, and a **Flex** that charges a Muscle Burst: leave the gold ring or jump when it fires
+- **4 room mobs**: a Clown that juggles knives, a Puppet that yanks your strings, a Mime that **reappears behind you** and a fast Bomb Balloon you can pop from a distance
+- Custom models with high-resolution textures. The spotlights, cups, warning rings, knives and dumbbell are animated 3D models, not particles
+
 ## What every pack includes
 
 - Original 3D models, textures and animations (`.bbmodel`, open in Blockbench)
@@ -201,6 +221,7 @@ Already available on **MythicCraft**:
 - [Frostbound Citadel](https://mythiccraft.io/index.php?resources/frostbound-citadel-dungeon-mob-pack.1604/)
 - [Chronosphere](https://mythiccraft.io/index.php?resources/chronosphere-dungeon-mob-pack.1603/)
 - [Forbidden Library](https://mythiccraft.io/index.php?resources/forbidden-library-dungeon-mob-pack.1610/)
+- [Carnival of Nightmares](https://mythiccraft.io/index.php?resources/carnival-of-nightmares-dungeon-mob-pack.1612/)
 
 ---
 
