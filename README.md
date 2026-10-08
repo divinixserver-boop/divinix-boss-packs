@@ -149,6 +149,26 @@ A clockwork temple where time itself comes apart. **The map is not included**: d
 - **4 room mobs**: Gearling that rolls, Hourglass Specter that blinks and shoots sand, Pendulum Guard with an accelerated/exhausted rhythm and a Clock Winder that buffs its allies
 - 15 custom models with high-resolution textures. The sweeping needle, echoes, sand orbs, rolling gear and warning rings are animated 3D models, not particles
 
+### Forbidden Library  -  dungeon mob pack (2 bosses + 4 room mobs)
+
+A living library where the books fight back. **The map is not included**: drop the mobs into your own dungeon or arena.
+
+![The Grand Archivist](images/library_01_grand_archivist.jpg)
+![Bound Colossus](images/library_04_bound_colossus.jpg)
+
+| Archivist in the library | The Archivist's robe | Sentinel | Sentinel's rune plate |
+|---|---|---|---|
+| ![Archivist](images/library_02_archivist_library.jpg) | ![Robe](images/library_03_archivist_robe.jpg) | ![Sentinel](images/library_05_sentinel.jpg) | ![Rune plate](images/library_06_sentinel_rune.jpg) |
+
+| Acolyte | Inkling | Grimoire |
+|---|---|---|
+| ![Acolyte](images/library_07_acolyte.jpg) | ![Inkling](images/library_08_inkling.jpg) | ![Grimoire](images/library_09_grimoire.jpg) |
+
+- **The Grand Archivist (final boss)**: **SHHH!** forces the whole room to crouch or take damage while he stands still and takes extra damage, an **Overdue** book floats over a player who must return it by hitting him, and an **Ink Flood** spreads a pool you have to step out of. He gets faster and adds flying pages in the later chapters
+- **Bound Colossus (mini-boss)**: a golem of chained books with a tome throw. At half health he collapses into **4 loose tomes**: kill them in time or he rebinds and heals
+- **4 room mobs**: Inkling that leaves an ink puddle, Grimoire that dives and hangs stunned, Acolyte that draws runes under your feet and a Sentinel bookshelf you have to flank
+- 15 custom models with high-resolution textures. The ink pool, warning rings, the overdue book and the flying pages are animated 3D models, not particles
+
 ## What every pack includes
 
 - Original 3D models, textures and animations (`.bbmodel`, open in Blockbench)
